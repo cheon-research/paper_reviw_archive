@@ -2,7 +2,7 @@
 
 논문 리뷰 자료들을 아카이브합니다.  
 최근~과거 학회순으로 정리되어 있습니다.  
-(최대한 논문을 바로 다운받을 수 있는 링크를 찾아보았으나, 없는경우에는 학회지의 링크를 첨부하였습니다.)
+(각 링크들은 paper: 논문 PDF / slide: 제가 직접 작성한 slide / post: 제 github 블로그의 post로 연결됩니다.)
 
 ### KDD'19 (August 4-8, 2019) 
 - Adversarial Variational Embedding for Robust Semi-supervised Learning ([paper](https://arxiv.org/abs/1905.02361), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200602_AVAE_cheon.pdf), ~~post~~)
