@@ -1,5 +1,7 @@
 # Paper Review Archive
 
+주로 Recommendation System, Representation Learning, Interpretable Deep Learning, Generative Adversarial Network와 관련된 논문들입니다.
+
 논문 리뷰 자료들을 아카이브합니다.  
 최근~과거 학회순으로 정리되어 있습니다.  
 (각 링크들은 paper: 논문 PDF / slide: 제가 직접 작성한 slide / post: 제 github 블로그의 post로 연결됩니다.)
