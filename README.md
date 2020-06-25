@@ -5,7 +5,7 @@
 (각 링크들은 paper: 논문 PDF / slide: 제가 직접 작성한 slide / post: 제 github 블로그의 post로 연결됩니다.)
 
 ### KDD'19 (August 4-8, 2019) 
-- Adversarial Variational Embedding for Robust Semi-supervised Learning ([paper](https://arxiv.org/abs/1905.02361), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200602_AVAE_cheon.pdf), [post](https://cheon-research.github.io/2020-06-19/AVAE))
+- Adversarial Variational Embedding for Robust Semi-supervised Learning ([paper](https://arxiv.org/abs/1905.02361), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200602_AVAE_cheon.pdf), [post](https://cheon-research.github.io/2020/06/19/AVAE))
 - Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts ([paper](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200512_JOIE_cheon.pdf), ~~post~~)
 - dEFEND: Explainable Fake News Detection ([paper](http://pike.psu.edu/publications/kdd19.pdf), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200410_dEFEND_cheon.pdf), ~~post~~)
 - ProGAN: Network Embedding via Proximity Generative Adversarial Network ([paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330866), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200331_ProGAN_cheon.pdf), ~~post~~)
