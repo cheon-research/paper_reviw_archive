@@ -20,7 +20,7 @@
 - Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences ([paper](https://arxiv.org/abs/1902.06236), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200331_KTUP_cheon.pdf), ~~post~~)
 
 ### WWW'17 (April 3-7, 2017)
-- Neural Collaborative Filtering([paper](https://arxiv.org/abs/1708.05031), ~~slide~~, [post](https://cheon-research.github.io/2020/07/21/NCF)
+- Neural Collaborative Filtering([paper](https://arxiv.org/abs/1708.05031), ~~slide~~, [post](https://cheon-research.github.io/2020/07/21/NCF))
   
 
 ### AAAI'15 (January 25-30, 2015)
