@@ -14,7 +14,7 @@
 - Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts ([paper](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200512_JOIE_cheon.pdf), ~~post~~)
 - dEFEND: Explainable Fake News Detection ([paper](http://pike.psu.edu/publications/kdd19.pdf), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200410_dEFEND_cheon.pdf), ~~post~~)
 - ProGAN: Network Embedding via Proximity Generative Adversarial Network ([paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330866), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200331_ProGAN_cheon.pdf), [post](https://cheon-research.github.io/2020/07/01/ProGAN))
-- Enhancing Collaborative Filtering with Generative Augmentaion ([paper](https://dl.acm.org/doi/10.1145/3292500.3330873), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200331_AugCF_cheon.pdf), ~~post~~)
+- Enhancing Collaborative Filtering with Generative Augmentation ([paper](https://dl.acm.org/doi/10.1145/3292500.3330873), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200331_AugCF_cheon.pdf), [post](https://cheon-research.github.io/2020/08/04/AugCF))
 
 ### WWW'19 (May 13-17, 2019)
 - Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences ([paper](https://arxiv.org/abs/1902.06236), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200331_KTUP_cheon.pdf), ~~post~~)
