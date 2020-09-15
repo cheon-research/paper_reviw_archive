@@ -4,7 +4,7 @@
 
 논문 리뷰 자료들을 아카이브합니다.  
 최근~과거순으로 정리되어 있습니다.  
-(각 링크들은 paper: 논문 PDF / slide: 제가 직접 작성한 slide / post: 제 github 블로그의 post로 연결됩니다.)
+(각 링크들은 paper: 논문 PDF / slide: 직접 작성한 slide / post: github 블로그의 post로 연결됩니다.)
 
 ### IJCAI'19 (August 19-25, 2019)
 - VAEGAN: A Collaborative Filtering Framework based on Adversarial Variational Autoencoders([paper](https://www.ijcai.org/Proceedings/2019/584))
