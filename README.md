@@ -20,7 +20,7 @@
 - Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences ([paper](https://arxiv.org/abs/1902.06236), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200331_KTUP_cheon.pdf))  
   
 ### NIPS'17 (December 4-9, 2017)
-- Inductive Representation Learning on Large Graphs([paper](https://arxiv.org/abs/1706.02216))  
+- Inductive Representation Learning on Large Graphs([paper](https://arxiv.org/abs/1706.02216), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200922_graphsage_cheon.pdf)  
   
 ### WWW'17 (April 3-7, 2017)
 - Neural Collaborative Filtering([paper](https://arxiv.org/abs/1708.05031), [post](https://cheon-research.github.io/2020/07/01/NCF))  
