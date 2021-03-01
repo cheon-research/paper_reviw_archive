@@ -6,7 +6,7 @@
 최근~과거순으로 정리되어 있습니다.  
 (각 링크들은 paper: 논문 PDF / slide: 직접 작성한 slide / post: github 블로그의 post로 연결됩니다.)
 
-### IJCAI'19 (August 19-25, 2019)
+### ICLR'20 (April 27-30, 2020)
 - Strategies for Pre-training Graph Neural Networks([paper](https://arxiv.org/abs/1905.12265), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/201020_Pretraining_GNN_cheon.pdf))
 
 ### KDD'19 (August 4-8, 2019) 
