@@ -7,8 +7,8 @@
 (각 링크들은 paper: 논문 PDF / slide: 직접 작성한 slide / post: github 블로그의 post로 연결됩니다.)
 
 ### IJCAI'19 (August 19-25, 2019)
-- VAEGAN: A Collaborative Filtering Framework based on Adversarial Variational Autoencoders([paper](https://www.ijcai.org/Proceedings/2019/584))
-  
+- Strategies for Pre-training Graph Neural Networks([paper](https://arxiv.org/abs/1905.12265), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/201020_Pretraining_GNN_cheon.pdf))
+
 ### KDD'19 (August 4-8, 2019) 
 - Adversarial Variational Embedding for Robust Semi-supervised Learning ([paper](https://arxiv.org/abs/1905.02361), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200602_AVAE_cheon.pdf), [post](https://cheon-research.github.io/2020/06/19/AVAE))
 - Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts ([paper](http://web.cs.ucla.edu/~yzsun/papers/2019_KDD_JOIE.pdf), [slide](https://github.com/cheon-research/paper_reviw_archive/blob/master/200512_JOIE_cheon.pdf))
